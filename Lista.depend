@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1678746359 source:c:\users\alberto gallegos\documents\lista\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<string.h>
+
+1679023537 source:c:\users\savic\onedrive\escritorio\codigos\lista\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<string.h>
+	<fstream>
+	"ListasSimLig.h"
+	"Productos.h"
+
+1679022575 c:\users\savic\onedrive\escritorio\codigos\lista\listassimlig.h
+
+1679022410 c:\users\savic\onedrive\escritorio\codigos\lista\productos.h
+
